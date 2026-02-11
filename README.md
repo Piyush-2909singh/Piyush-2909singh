@@ -8,7 +8,9 @@
 
 ## 👨‍💻 Engineering Snapshot
 
-<img align="right" src="![Image](https://github.com/user-attachments/assets/aa1f28ae-090a-4301-847a-70ddfe0a87fa)" width="350">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
 
 * 🌱 **Currently:** 4th Sem B.Tech Student @ **GLA University**
 * 🧠 **Learning:** Machine Learning Foundations & Full Stack Java
@@ -24,6 +26,11 @@
 </p>
 
 ---
+
+## 📈 Activity & Consistency
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-2909singh&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
 ## 🛰️ Orbital Command (Stats)
 <p align="center">
@@ -42,13 +49,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,azure,spring,flask,mysql,mongodb,git,bash,arduino,docker,linux&perline=6" />
   </a>
-</p>
-
----
-
-## 🐍 Evolution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/output/github-snake-dark.svg" alt="Snake" />
 </p>
 
 ---
