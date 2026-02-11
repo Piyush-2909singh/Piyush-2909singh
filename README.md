@@ -1,32 +1,36 @@
 # ⚡ Digital Portfolio | Piyush Singh Tomar 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0F2027&height=250&section=header&text=Piyush%20Singh%20Tomar&fontSize=50&fontColor=ffffff&animation=twinkling&desc=B.TECH%20STUDENT%20%E2%96%AE%20GLA%20UNIVERSITY&descSize=20&descAlignY=65" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=750&lines=4th+Sem+B.Tech+@+GLA+University;Exploring+Machine+Learning;Java+Developer+in+Training;PW+Campus+Ambassador;Building+Intelligence+with+AI..." />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-2909singh&theme=tokyonight&hide_border=true" alt="Coding Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Piyush-2909singh&label=SYSTEM+ACCESSES&color=00F7FF&style=flat-square" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F7FF,100:0F2027&height=200&section=header&text=Piyush%20Singh%20Tomar&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
 
 ---
 
-## 🏗️ Status Report
-> **Academic:** 4th Sem B.Tech student at GLA University, Mathura.
-> **Current Focus:** Masterful implementation of **Java**, **Machine Learning**, and **Azure Cloud** services.
-> **Community:** Serving as a **Physics Wallah Campus Ambassador**.
+## 👨‍💻 Engineering Snapshot
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp6bm94bm94bm94bm94bm94bm94bm94bm94bm94bm94bm94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxx39cc35m0/giphy.gif" width="350">
+
+* 🌱 **Currently:** 4th Sem B.Tech Student @ **GLA University**
+* 🧠 **Learning:** Machine Learning Foundations & Full Stack Java
+* 🏆 **Community:** Campus Ambassador for **Physics Wallah**
+* ⚡ **Fact:** Passionate about IoT, Arduino, and Cloud Engineering
+* 📬 **Reach Me:** [your-email@gmail.com](mailto:your-email@gmail.com)
+* 📍 **Location:** India
+
+<br/>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00F7FF&width=435&lines=Building+Future+Tech;Mastering+Java+%26+Python;Exploring+Azure+Cloud;Physics+Wallah+Ambassador" />
+</p>
 
 ---
+
+## 📈 Activity & Consistency
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-2909singh&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
 ## 🛰️ Orbital Command (Stats)
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-2909singh&bg_color=0f2027&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
