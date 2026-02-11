@@ -1,7 +1,7 @@
 # ⚡ Digital Portfolio | Piyush Singh 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Full+Stack+Developer;Physics+Wallah+Ambassador;Azure+Cloud+Enthusiast">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Full+Stack+Developer+;Physics+Wallah+Ambassador;Azure+Cloud+Enthusiast">
 </p>
 
 <p align="center">
@@ -11,10 +11,10 @@
 ---
 
 ### 👨‍💻 Engineering Snapshot
-- 🎓 **Academic:** 4th Sem B.Tech @ GLA University, Mathura
-- 🎯 **2026 Focus:** Deepening expertise in **RAG architectures** & **Azure AI Services**
-- 🏆 **Community:** Campus Ambassador for **Physics Wallah**
-- 🛠 **Latest Innovation:** [Enterprise Knowledge Intelligence Platform](https://github.com/Piyush-2909singh)
+- 🎓 **Academic:** 4th Sem B.Tech @ GLA University, Mathura.
+- 🎯 **2026 Focus:** Deepening expertise in **RAG architectures** & **Azure AI Services**.
+- 🏆 **Community:** Campus Ambassador for **Physics Wallah**.
+- 🛠 **Latest Innovation:** [Enterprise Knowledge Intelligence Platform](https://github.com/Piyush-2909singh) (Semantic Search + AI).
 
 ### 🛠 My Tech Toolbox
 <p align="left">
@@ -36,18 +36,14 @@
 
 ### 🏙 3D Activity Skyline
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
 
 ---
 
 ### 🎮 Snake Contribution Game
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/output/github-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/output/github-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/output/github-snake-dark.svg" alt="Snake Game" />
 </p>
 
 ---
@@ -62,13 +58,6 @@
 ### 📬 Let's Collaborate
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush-singh-tomar-824653229" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-### 📬 Let's Collaborate
-<p align="center">
-  <a href="https://www.linkedin.com/in/piyush-singh-tomar-824653229" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
