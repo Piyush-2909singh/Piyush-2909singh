@@ -1,7 +1,7 @@
 # ⚡ Digital Portfolio | Piyush Singh Tomar 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=250&section=header&text=Piyush%20Singh%20Tomar&fontSize=50&fontColor=ffffff&animation=twinkling&desc=RAG%20Architect%20|%20Full%20Stack%20Developer&descSize=20&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=250&section=header&text=Piyush%20Singh%20Tomar&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Machine%20Learning%20Engineer%20|%20RAG%20Architect&descSize=20&descAlignY=65" width="100%" />
 </p>
 
 <p align="center">
@@ -9,7 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Piyush-2909singh&theme=radical&no-bg=true&margin-w=15&column=5" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Piyush-2909singh&theme=radical&margin-w=15&column=5" alt="Piyush's Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Piyush-2909singh&label=SYSTEM+ACCESSES&color=0e75b6&style=flat-square" />
 </p>
 
 ---
@@ -23,7 +27,7 @@
 ## 🛰️ Orbital Command (Stats)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-2909singh&bg_color=0f2027&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true&font_size=14&days=30" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-2909singh&bg_color=0f2027&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true&font_size=14" width="100%" />
 </p>
 
 <p align="center">
