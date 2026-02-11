@@ -1,7 +1,7 @@
 # ⚡ Digital Portfolio | Piyush Singh Tomar 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=250&section=header&text=Piyush%20Singh%20Tomar&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=RAG%20Architect%20|%20Full%20Stack%20Developer&descSize=20&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=250&section=header&text=Piyush%20Singh%20Tomar&fontSize=50&fontColor=ffffff&animation=twinkling&desc=RAG%20Architect%20|%20Full%20Stack%20Developer&descSize=20&descAlignY=65" width="100%" />
 </p>
 
 <p align="center">
@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Piyush-2909singh&theme=radical&no-bg=true&margin-w=15&column=5" alt="trophy" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-2909singh&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Piyush-2909singh&label=SYSTEM+ACCESSES&color=0e75b6&style=flat-square" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Piyush-2909singh&theme=radical&no-bg=true&margin-w=15&column=5" alt="trophy" />
 </p>
 
 ---
@@ -55,6 +55,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush-singh-tomar-824653229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
