@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-2909singh&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Piyush-2909singh&theme=radical&no-bg=true&margin-w=15&column=5" alt="trophy" />
 </p>
 
@@ -27,12 +23,21 @@
 ## 🛰️ Orbital Command (Stats)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-2909singh&bg_color=0f2027&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-2909singh&bg_color=0f2027&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true&font_size=14&days=30" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Piyush-2909singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-2909singh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🛠️ Integrated Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,azure,spring,flask,mysql,mongodb,git,bash,arduino,docker,linux&perline=6" />
+  </a>
 </p>
 
 ---
@@ -55,9 +60,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush-singh-tomar-824653229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
