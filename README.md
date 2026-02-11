@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Engineering Snapshot
 
-<img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gopher.gif" width="300">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXp6bm94bm94bm94bm94bm94bm94bm94bm94bm94bm94bm94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
 
 * 🌱 **Currently:** 4th Sem B.Tech Student @ **GLA University**
 * 🧠 **Learning:** Machine Learning Foundations & Full Stack Java
@@ -24,11 +24,6 @@
 </p>
 
 ---
-
-## 📈 Activity & Consistency
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-2909singh&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
 
 ## 🛰️ Orbital Command (Stats)
 <p align="center">
@@ -47,13 +42,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,azure,spring,flask,mysql,mongodb,git,bash,arduino,docker,linux&perline=6" />
   </a>
-</p>
-
----
-
-## 🏙️ 3D Activity Skyline
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
 
 ---
