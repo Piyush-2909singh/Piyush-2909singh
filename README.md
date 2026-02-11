@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Engineering Snapshot
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXp6bm94bm94bm94bm94bm94bm94bm94bm94bm94bm94bm94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
+<img align="right" src="![Image](https://github.com/user-attachments/assets/aa1f28ae-090a-4301-847a-70ddfe0a87fa)" width="350">
 
 * 🌱 **Currently:** 4th Sem B.Tech Student @ **GLA University**
 * 🧠 **Learning:** Machine Learning Foundations & Full Stack Java
