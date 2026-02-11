@@ -1,7 +1,7 @@
 # ⚡ Digital Portfolio | Piyush Singh 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Full+Stack+Developer+;Physics+Wallah+Ambassador;Azure+Cloud+Enthusiast">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Full+Stack+Developer;Physics+Wallah+Ambassador;Azure+Cloud+Enthusiast">
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 - 🎓 **Academic:** 4th Sem B.Tech @ GLA University, Mathura.
 - 🎯 **2026 Focus:** Deepening expertise in **RAG architectures** & **Azure AI Services**.
 - 🏆 **Community:** Campus Ambassador for **Physics Wallah**.
-- 🛠 **Latest Innovation:** [Enterprise Knowledge Intelligence Platform](https://github.com/Piyush-2909singh) (Semantic Search + AI).
+- 🛠 **Latest Innovation:** [Enterprise Knowledge Intelligence Platform](https://github.com/Piyush-2909singh)
 
 ### 🛠 My Tech Toolbox
 <p align="left">
@@ -28,10 +28,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Piyush-2909singh&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-2909singh&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-2909singh&theme=radical&hide_border=true" />
 </p>
 
 ### 🏙 3D Activity Skyline
@@ -51,6 +47,15 @@
 ### 🎵 My Coding Vibes
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31sh5jue376vstbph272pdtaypgy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212" />
+</p>
+
+---
+
+### 📬 Let's Collaborate
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyush-singh-tomar-824653229" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
