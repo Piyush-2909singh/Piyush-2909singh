@@ -9,8 +9,18 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Piyush-2909singh&theme=radical&no-bg=true&margin-w=15&column=5" alt="trophy" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Piyush-2909singh&label=SYSTEM+ACCESSES&color=0e75b6&style=flat-square" />
 </p>
+
+---
+
+## 🏗️ Deployment Status
+> **Current Focus:** Architecting an **Enterprise Knowledge Intelligence Platform** using RAG & Semantic Search.
+> `Progress: ██████████░░ 85%`
 
 ---
 
@@ -27,28 +37,7 @@
 
 ---
 
-## 🛠️ Integrated Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,azure,spring,flask,mysql,mongodb,git,bash,arduino,docker,linux&perline=6" />
-  </a>
-</p>
-
----
-
-## 🧠 Core Engineering Focus
-> **RAG & Semantic Search:** Architecting high-performance knowledge retrieval systems.
-> **Leadership:** Driving student engagement as a **Physics Wallah Campus Ambassador**.
-
-| 🚀 Project Status | 🛠️ Main Tech | 📈 Progress |
-| :--- | :--- | :--- |
-| **Enterprise RAG Platform** | Python, Azure, LangChain | `██████████░░` 85% |
-| **Crop Yield Forecasting** | ML, Scikit-Learn | `████████████` 100% |
-| **TechWalk Event** | IoT & Branding | `████████████` 100% |
-
----
-
-## 🏙️ 3D Contribution Skyline
+## 🏙️ 3D Activity Skyline
 <p align="center">
   <img src="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
