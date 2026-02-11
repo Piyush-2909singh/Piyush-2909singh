@@ -8,19 +8,19 @@
 
 ## 👨‍💻 Engineering Snapshot
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp6bm94bm94bm94bm94bm94bm94bm94bm94bm94bm94bm94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxx39cc35m0/giphy.gif" width="350">
+<img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gopher.gif" width="300">
 
 * 🌱 **Currently:** 4th Sem B.Tech Student @ **GLA University**
 * 🧠 **Learning:** Machine Learning Foundations & Full Stack Java
 * 🏆 **Community:** Campus Ambassador for **Physics Wallah**
 * ⚡ **Fact:** Passionate about IoT, Arduino, and Cloud Engineering
-* 📬 **Reach Me:** [piyushsinghtomar@yourdomain.com](mailto:piyushsinghtomar@yourdomain.com)
+* 📬 **Reach Me:** [your-email@gmail.com](mailto:your-email@gmail.com)
 * 📍 **Location:** India
 
 <br/>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00F7FF&width=435&lines=Building+Future+Tech;Mastering+Java+%26+Python;Exploring+Azure+Cloud;Physics+Wallah+Ambassador" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=00F7FF&width=800&height=100&lines=Mastering+Java+%26+Python;Building+Future+Tech;Exploring+Azure+Cloud" />
 </p>
 
 ---
