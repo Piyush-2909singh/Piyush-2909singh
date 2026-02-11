@@ -1,40 +1,60 @@
-# Hello World! I'm Piyush 👋
+# ⚡ Digital Portfolio | Piyush Singh Tomar👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=B.Tech+@+GLA+University;Machine+Learning+Explorer;Full+Stack+Developer;Physics+Wallah+Ambassador">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Full+Stack+Developer;Physics+Wallah+Ambassador;Azure+Cloud+Enthusiast">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Piyush-2909singh&color=00D1FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 **Education:** 4th Semester B.Tech at GLA University, Mathura.
-- 💡 **Currently Working On:** Enterprise Knowledge Intelligence Platform (RAG & Semantic Search).
-- 🏆 **Community:** Campus Ambassador for Physics Wallah.
-- 🛠 **Top Skills:** Java, Python, Machine Learning, and Azure.
+### 👨‍💻 Engineering Snapshot
+- 🎓 **Academic:** 4th Sem B.Tech @ GLA University, Mathura
+- 🎯 **2026 Focus:** Deepening expertise in **RAG architectures** & **Azure AI Services**
+- 🏆 **Community:** Campus Ambassador for **Physics Wallah**
+- 🛠 **Latest Innovation:** [Enterprise Knowledge Intelligence Platform](https://github.com/Piyush-2909singh) (Semantic Search + AI)
 
-### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+### 🛠 My Tech Toolbox
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
 
-### 📊 My GitHub Stats
+### 📊 Real-Time Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyush-2909singh&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Piyush-2909singh&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-2909singh&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-2909singh&theme=radical&hide_border=true" />
 </p>
 
-### 🏙 3D Contribution Map
+### 🏙 3D Activity Skyline
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
 
 ---
 
-### 📬 Connect with Me
-<p align="left">
-<a href="www.linkedin.com/in/píyush-singh-tomar-824653229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Piyush" height="30" width="40" /></a>
+### 🎮 Snake Contribution Game
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/output/github-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 📬 Let's Collaborate
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyush-singh-tomar-824653229" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
