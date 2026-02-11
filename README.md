@@ -1,11 +1,11 @@
 # ⚡ Digital Portfolio | Piyush Singh Tomar 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=250&section=header&text=Piyush%20Singh%20Tomar&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Machine%20Learning%20Engineer%20|%20RAG%20Architect&descSize=20&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=250&section=header&text=Piyush%20Singh%20Tomar&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=SYSTEM%20ARCHITECT%20%E2%96%AE%20RAG%20DEVELOPER&descSize=20&descAlignY=65" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Piyush+Singh+Tomar;Machine+Learning+Engineer;Azure+Cloud+Solutions;Building+Intelligence+with+RAG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=750&lines=INITIATING+RAG+ARCHITECT+MODULE...;ACCESSING+AZURE+CLOUD+SERVICES...;LOADING+ML+ENGINEERING+CORES...;PIYUSH+SINGH+TOMAR:+READY" />
 </p>
 
 <p align="center">
@@ -13,14 +13,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Piyush-2909singh&label=SYSTEM+ACCESSES&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Piyush-2909singh&label=PROFILE+PENETRATION&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
 ## 🏗️ Deployment Status
 > **Current Focus:** Architecting an **Enterprise Knowledge Intelligence Platform** using RAG & Semantic Search.
-> `Progress: ██████████░░ 85%`
+> `System Load: ██████████░░ 85%`
 
 ---
 
