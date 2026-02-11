@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Piyush-2909singh&theme=radical&margin-w=15&column=5" alt="Piyush's Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-2909singh&theme=tokyonight&hide_border=true" alt="Piyush's Streak" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 ## 🛰️ Orbital Command (Stats)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-2909singh&bg_color=0f2027&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true&font_size=14" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-2909singh&bg_color=0f2027&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
