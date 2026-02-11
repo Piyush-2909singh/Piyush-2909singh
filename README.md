@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋 I'm Piyush Singh Tomar.
 
-<!--
-**Piyush-2909singh/Piyush-2909singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=B.Tech+Student+@+GLA+University;Machine+Learning+Enthusiast;Full+Stack+Developer;Java+Programmer">
+</p>
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Piyush-2909singh&show_icons=true&theme=radical)
