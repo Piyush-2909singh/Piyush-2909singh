@@ -30,6 +30,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-2909singh&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-2909singh&theme=radical&hide_border=true" />
+</p>
+
 ### 🏙 3D Activity Skyline
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
@@ -50,10 +54,17 @@
 
 ### 🎵 My Coding Vibes
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31z46nbx6upawwhxp4arwzdr4gcu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31sh5jue376vstbph272pdtaypgy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212" />
 </p>
 
 ---
+
+### 📬 Let's Collaborate
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyush-singh-tomar-824653229" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ### 📬 Let's Collaborate
 <p align="center">
