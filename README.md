@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=750&lines=4th+Sem+B.Tech+@+GLA+University;Exploring+Machine+Learning;Java+Developer+in+Training;PW+Campus+Ambassador;Future+Software+Engineer..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=750&lines=4th+Sem+B.Tech+@+GLA+University;Exploring+Machine+Learning;Java+Developer+in+Training;PW+Campus+Ambassador;Building+Intelligence+with+AI..." />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-2909singh&theme=tokyonight&hide_border=true" alt="Piyush's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-2909singh&theme=tokyonight&hide_border=true" alt="Coding Streak" />
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 ---
 
 ## 🏗️ Status Report
-> **Academic:** 4th Sem B.Tech @ GLA University, Mathura
-> **Learning:** Full Stack Java, ML foundations, and Cloud Infrastructure
-> **Community:** Serving as a Campus Ambassador for Physics Wallah
+> **Academic:** 4th Sem B.Tech student at GLA University, Mathura.
+> **Current Focus:** Masterful implementation of **Java**, **Machine Learning**, and **Azure Cloud** services.
+> **Community:** Serving as a **Physics Wallah Campus Ambassador**.
 
 ---
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Integrated Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,azure,spring,flask,mysql,mongodb,git,bash,arduino,docker,linux&perline=6" />
