@@ -1,4 +1,4 @@
-# ⚡ Digital Portfolio | Piyush Singh Tomar👋
+# ⚡ Digital Portfolio | Piyush Singh 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Piyush%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
@@ -21,17 +21,14 @@
 
 ---
 
-## 🛠️ Tech Ecosystem
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,flask,azure,git,github,mysql,mongodb,docker,bash" />
-</p>
-
----
-
 ## 📊 Performance Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Piyush-2909singh&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-2909singh&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-2909singh&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-2909singh&theme=radical&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -52,12 +49,8 @@
 
 ## 📬 Connectivity
 <p align="center">
-  <a href="https://www.linkedin.com/in/piyush-singh-tomar-824653229">
+  <a href="https://www.linkedin.com/in/piyush-singh-tomar-824653229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your-real-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
