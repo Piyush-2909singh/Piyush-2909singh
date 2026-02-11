@@ -9,8 +9,10 @@
 ## 👨‍💻 Engineering Snapshot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/output/gh-space-shooter.svg" width="100%" />
 </p>
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXp6bm94bm94bm94bm94bm94bm94bm94bm94bm94bm94bm94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
 
 * 🌱 **Currently:** 4th Sem B.Tech Student @ **GLA University**
 * 🧠 **Learning:** Machine Learning Foundations & Full Stack Java
@@ -27,24 +29,7 @@
 
 ---
 
-## 📈 Activity & Consistency
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-2909singh&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
-## 🛰️ Orbital Command (Stats)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-2909singh&bg_color=0f2027&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyush-2909singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-2909singh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🛠️ Integrated Tech Stack
+## 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,azure,spring,flask,mysql,mongodb,git,bash,arduino,docker,linux&perline=6" />
@@ -61,8 +46,4 @@
   <a href="https://www.linkedin.com/in/piyush-singh-tomar-824653229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=120&section=footer"/>
 </p>
