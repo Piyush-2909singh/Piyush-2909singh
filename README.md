@@ -28,4 +28,13 @@
 </p>
 
 ### 🏙 3D Contribution Map
-![GitHub Profile 3D Contrib](https://github-readme-3d-stats.vercel.app/api?username=Piyush-2909singh&theme=dark)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+---
+
+### 📬 Connect with Me
+<p align="left">
+<a href="www.linkedin.com/in/píyush-singh-tomar-824653229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Piyush" height="30" width="40" /></a>
+</p>
