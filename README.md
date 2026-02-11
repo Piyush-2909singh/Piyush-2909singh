@@ -26,6 +26,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-2909singh&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-2909singh&theme=radical&hide_border=true" />
+</p>
+
 ### 🏙 3D Activity Skyline
 <p align="center">
   <img src="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
