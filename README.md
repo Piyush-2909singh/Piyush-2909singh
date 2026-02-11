@@ -5,7 +5,7 @@
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;Full+Stack+Developer;RAG+System+Builder;Azure+AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;Full+Stack+Developer;RAG+Architect;Azure+Cloud+Builder" />
 </p>
 
 <!-- 🔥 Visitor Counter -->
@@ -18,10 +18,10 @@
 ## 👨‍💻 About Me  
 
 🎓 B.Tech (CSE) | 4th Semester | GLA University, Mathura  
-🚀 Passionate about building intelligent AI systems  
-🧠 Currently working on RAG architectures & Azure AI Services  
+🧠 Focused on RAG architectures, Semantic Search & Azure AI  
+🚀 Building scalable AI-powered systems  
 
-I focus on scalable AI systems, semantic search, and cloud deployment.
+I enjoy combining backend engineering with intelligent retrieval systems.
 
 ---
 
@@ -31,7 +31,6 @@ I focus on scalable AI systems, semantic search, and cloud deployment.
 AI-powered knowledge retrieval system using:
 - Retrieval-Augmented Generation (RAG)
 - Vector Databases
-- Semantic Search
 - Azure AI Services
 - Flask Backend
 
@@ -42,7 +41,25 @@ AI-powered knowledge retrieval system using:
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,flask,azure,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,flask,azure,git,github,html,css,js" />
+</p>
+
+---
+
+## 🧠 Competitive Programming  
+
+<p align="center">
+  <a href="https://leetcode.com/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/CodeChef-Competitive-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+<!-- Optional LeetCode Stats -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
 ---
@@ -76,34 +93,36 @@ AI-powered knowledge retrieval system using:
 
 ---
 
-## 📂 More Projects  
+## 💼 Open to Opportunities  
 
-<details>
-<summary>Click to Expand</summary>
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-Contact%20Now-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- AI Resume Analyzer  
-- Semantic Search Chatbot  
-- Azure Cloud Deployment Projects  
-- Flask Backend Systems  
-
-</details>
+Interested in:
+- AI/ML Internships  
+- Backend Engineering Roles  
+- Research Collaborations  
+- Azure Cloud Projects  
 
 ---
 
 ## 🌐 Social Media  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/piyush-singh-tomar-824653229" target="_blank">
+  <a href="https://www.linkedin.com/in/piyush-singh-tomar-824653229">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Piyush-2909singh" target="_blank">
+  <a href="https://github.com/Piyush-2909singh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- 🔥 Footer Animation -->
+<!-- 🔥 Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
 </p>
