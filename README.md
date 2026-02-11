@@ -1,53 +1,68 @@
-# ⚡ Digital Portfolio | Piyush Singh 👋
+# ⚡ Digital Portfolio | Piyush Singh Tomar 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Piyush%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=250&section=header&text=Piyush%20Singh%20Tomar&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=RAG%20Architect%20|%20Full%20Stack%20Developer&descSize=20&descAlignY=65" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;Full+Stack+Developer;RAG+Architect;Azure+Cloud+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Piyush+Singh+Tomar;Machine+Learning+Engineer;Azure+Cloud+Solutions;Building+Intelligence+with+RAG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Piyush-2909singh&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 👨‍💻 Engineering Snapshot
-🎓 **Academic:** 4th Sem B.Tech @ GLA University, Mathura  
-🧠 **Focus:** Specialized in **RAG Architectures** & **Semantic Search**  
-🏆 **Community:** Campus Ambassador for **Physics Wallah**  
-
----
-
-## 📊 Performance Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyush-2909singh&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-2909singh&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-2909singh&theme=radical&hide_border=true" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=Piyush-2909singh&label=SYSTEM+ACCESSES&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
-## 🏙️ 3D Activity Skyline
+## 🛰️ Orbital Command (Stats)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-2909singh&bg_color=0f2027&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Piyush-2909singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-2909singh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🛠️ Integrated Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,azure,spring,flask,mysql,mongodb,git,bash,arduino,docker,linux&perline=6" />
+  </a>
+</p>
+
+---
+
+## 🧠 Core Engineering Focus
+> **RAG & Semantic Search:** Architecting high-performance knowledge retrieval systems.
+> **Leadership:** Driving student engagement as a **Physics Wallah Campus Ambassador**.
+
+| 🚀 Project Status | 🛠️ Main Tech | 📈 Progress |
+| :--- | :--- | :--- |
+| **Enterprise RAG Platform** | Python, Azure, LangChain | `██████████░░` 85% |
+| **Crop Yield Forecasting** | ML, Scikit-Learn | `████████████` 100% |
+| **TechWalk Event** | IoT & Branding | `████████████` 100% |
+
+---
+
+## 🏙️ 3D Contribution Skyline
 <p align="center">
   <img src="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
 
 ---
 
-## 🐍 Automated Contribution Snake
+## 🐍 Evolution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/output/github-snake-dark.svg" alt="Snake" />
 </p>
 
 ---
 
-## 📬 Connectivity
+## 📬 Connectivity & Nodes
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush-singh-tomar-824653229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
