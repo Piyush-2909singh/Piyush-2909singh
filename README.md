@@ -37,17 +37,27 @@
 </p>
 
 ---
+
 ## 🐍 Evolution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Piyush-2909singh/Piyush-2909singh/output/github-snake-dark.svg" alt="Snake" />
 </p>
+
 ---
-## 📬 Connectivity Nodes
+
+## 📬 Connectivity & Support Nodes
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:tomarpiyush304@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/piyush-singh-tomar-824653229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.buymeacoffee.com/Piyush-2909singh" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=120&section=footer"/>
 </p>
