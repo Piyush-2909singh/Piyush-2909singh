@@ -18,7 +18,7 @@
 * 🧠 **Learning:** Machine Learning Foundations & Full Stack Java
 * 🏆 **Community:** Campus Ambassador for **Physics Wallah**
 * ⚡ **Fact:** Passionate about IoT, Arduino, and Cloud Engineering
-* 📬 **Reach Me:** [your-email@gmail.com](mailto:your-email@gmail.com)
+* 📬 **Reach Me:** [tomarpiyush304@gmail.com](mailto:your-email@gmail.com)
 * 📍 **Location:** India
 
 <br/>
