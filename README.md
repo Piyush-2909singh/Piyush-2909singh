@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPiyush-2909singh%2FPiyush-2909singh&count_bg=%2300F7FF&title_bg=%230F2027&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=00F7FF&label=PROFILE%20VIEWS&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FPiyush-2909singh%2Fvisits&style=for-the-badge" alt="Visitor Count" />
 </p>
 
 ---
