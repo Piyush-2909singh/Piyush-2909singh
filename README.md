@@ -4,6 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F7FF,100:0F2027&height=200&section=header&text=Piyush%20Singh%20Tomar&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Piyush-2909singh/count.svg" alt="Visitor Count" />
+</p>
+
 ---
 
 ## 👨‍💻 Engineering Snapshot
@@ -18,7 +22,7 @@
 * 🧠 **Learning:** Machine Learning Foundations & Full Stack Java
 * 🏆 **Community:** Campus Ambassador for **Physics Wallah**
 * ⚡ **Fact:** Passionate about IoT, Arduino, and Cloud Engineering
-* 📬 **Reach Me:** [tomarpiyush304@gmail.com](mailto:your-email@gmail.com)
+* 📬 **Reach Me:** [tomarpiyush304@gmail.com](mailto:tomarpiyush304@gmail.com)
 * 📍 **Location:** India
 
 <br/>
