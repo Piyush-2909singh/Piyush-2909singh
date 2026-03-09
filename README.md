@@ -30,7 +30,14 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=00F7FF&width=800&height=100&lines=Mastering+Java+%26+Python;Building+Future+Tech;Exploring+Azure+Cloud" />
 </p>
-[![Credly Badge](https://images.credly.com/size/340x340/images/YOUR_BADGE_IMAGE.png)](https://www.credly.com/badges/59f8be8e-bac7-4699-87da-d1bcb96e3794)
+---
+## 🏆 Certifications & Badges
+
+<p align="center">
+<a href="https://www.credly.com/badges/59f8be8e-bac7-4699-87da-d1bcb96e3794/public_url">
+<img src="https://img.shields.io/badge/Credly-Verified%20Badge-orange?logo=credly&style=for-the-badge">
+</a>
+</p>
 ---
 
 ## 🛠️ Tech Stack
